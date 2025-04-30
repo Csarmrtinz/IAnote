@@ -1,3 +1,46 @@
+# 🧠 ianote-app
+
+Aplicación web para tomar apuntes inteligentes, integrando IA para ayudar a los estudiantes a estudiar mejor.
+
+---
+
+## 🚀 Tecnologías principales
+
+- [x] **Next.js** 14 + TypeScript
+- [x] **Tailwind CSS** (estilos rápidos y responsivos)
+- [x] **pnpm** (gestión de paquetes rápida y eficiente)
+- [ ] Docker (próximamente)
+- [ ] Playwright o Cypress (para testing e2e)
+
+---
+
+## 🎯 ¿Qué es ianote-app?
+
+ianote-app es una aplicación de apuntes con IA que permite:
+
+- 📚 Crear y organizar apuntes en carpetas y etiquetas
+- 🔎 Resumir texto, vídeos o páginas web
+- 🧠 Evaluar lo aprendido explicando por texto, audio o vídeo
+- 🧪 Recibir correcciones y generar ejercicios personalizados
+- 🧩 Colaborar con otras personas (Git-like + roles)
+- 🏆 Gamificar el aprendizaje con trivias, recompensas y rankings
+
+---
+
+## 📦 Cómo usar el proyecto
+
+````bash
+pnpm install
+pnpm dev
+
+---
+
+## ℹ️ Info técnica del entorno Next.js
+
+Este proyecto fue creado con [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+
+(… y aquí pegas solo lo relevante de lo que ya estaba…)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
@@ -12,7 +55,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+````
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
